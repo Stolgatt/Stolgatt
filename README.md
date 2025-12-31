@@ -95,7 +95,12 @@ I focus on **low-level optimization**, **architecture**, and building robust **t
 > * Level Design & Physics: Designed a complete map with integrated collision logic and environmental interactions.
 > * UX/UI: Created **dynamic interfaces** (HUD) and intuitive visual cues to guide players toward objectives.
 
-[![Watch the Gameplay Demo](assets/BROLOC_Miniature.png)](https://youtu.be/wuvYTPFU2UY)
+<div align="center">
+  <a href="https://youtu.be/wuvYTPFU2UY">
+    <img src="assets/BROLOC_Miniature.png" alt="Watch the Gameplay Demo" width="600">
+  </a>
+</div>
+
 ---
 
 <div align="center">
@@ -104,6 +109,6 @@ I focus on **low-level optimization**, **architecture**, and building robust **t
   
   I am currently interviewing for internships. Feel free to reach out if you deal with **Industrial Modernization**, **System Programming**, or **Game Tech**.
 
-  [**Contact Me on LinkedIn**](https://www.linkedin.com/in/ton-profil)
+  [**Contact Me on LinkedIn**](https://www.linkedin.com/in/alexis-chavy)
 
 </div>
