@@ -46,7 +46,7 @@ I focus on **low-level optimization**, **architecture**, and building robust **t
 > * Managed symbol tables and manual memory allocation.
 > * Optimized code generation for x86 architecture.
 
-![Compiler Project](https://github.com/N3ur0sis/pyasm)
+[![View Source Code](https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N3ur0sis/pyasm)
 
 ---
 
@@ -58,7 +58,7 @@ I focus on **low-level optimization**, **architecture**, and building robust **t
 > * Handled the main loop, event polling, and texture mapping manually.
 > * Pure C memory management (malloc/free) for dynamic entities.
 
-![Game Demo](https://via.placeholder.com/800x200?text=Insert+GIF+or+Screenshot+of+Racing+Game)
+[![Explore Repository](https://img.shields.io/badge/Explore_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stolgatt/UCR80-PPII2025)
 
 ---
 
@@ -70,7 +70,7 @@ I focus on **low-level optimization**, **architecture**, and building robust **t
 > * Heavy use of patterns: **Factory** (Entities), **Strategy** (Combat), **Observer** (Events) among others.
 > * Result: A codebase that allows adding new features without breaking existing logic.
 
-![Architecture Diagram](https://via.placeholder.com/800x200?text=Insert+Class+Diagram+or+Terminal+Output)
+[![Browse Codebase](https://img.shields.io/badge/Browse_Codebase-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stolgatt/RPG-Fantasy)
 
 ---
 
@@ -82,7 +82,7 @@ I focus on **low-level optimization**, **architecture**, and building robust **t
 > * Ran experimental protocols to measure agent efficiency in constrained environments.
 > * Produced a technical research paper detailing the findings.
 
-![Research Graph](https://via.placeholder.com/800x200?text=Insert+Graph+from+PDF+or+Scheme)
+[![Read Research Report](https://img.shields.io/badge/Read_Research_Report-007EC6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Stolgatt/PIDR_InititationRecherche)
 
 
 ---
