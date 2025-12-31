@@ -95,7 +95,7 @@ I focus on **low-level optimization**, **architecture**, and building robust **t
 > * Level Design & Physics: Designed a complete map with integrated collision logic and environmental interactions.
 > * UX/UI: Created **dynamic interfaces** (HUD) and intuitive visual cues to guide players toward objectives.
 
-<h3 style=bold> Watch the Gameplay Demo** </h3>
+<h3><strong> Watch the Gameplay Demo </strong></h3>
 
 <div align="center">
   <a href="https://youtu.be/wuvYTPFU2UY">
