@@ -95,7 +95,7 @@ I focus on **low-level optimization**, **architecture**, and building robust **t
 > * Level Design & Physics: Designed a complete map with integrated collision logic and environmental interactions.
 > * UX/UI: Created **dynamic interfaces** (HUD) and intuitive visual cues to guide players toward objectives.
 
-[![Watch the Gameplay Demo](https://img.youtube.com/vi/wuvYTPFU2UY/maxresdefault.jpg)](https://youtu.be/wuvYTPFU2UY)
+[![Watch the Gameplay Demo](assets/BROLOC_Miniature.png)](https://youtu.be/wuvYTPFU2UY)
 ---
 
 <div align="center">
