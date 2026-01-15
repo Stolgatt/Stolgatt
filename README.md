@@ -105,6 +105,18 @@ I focus on **low-level optimization**, **architecture**, and building robust **t
 
 ---
 
+### 6. Co-Loc: Android Flatsharing Platform
+**Stack:** `Kotlin` `Android SDK` `Firebase` `MVVM` `MapLibre`
+
+> **The Challenge: Building a transparent, social-first mobile platform to modernize the roommate hunting process and secure tenant interactions.
+> * Engineered a native Android application using Kotlin and MVVM architecture for clean separation of concerns.
+> * Integrated the full Firebase suite (Auth, Realtime DB, Storage) to enable live chat, user profiles, and dynamic data synchronization.
+> * Implemented interactive mapping features and complex filtering logic for real-time housing discovery.
+
+[![View Source Code](https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stolgatt/co-loc)
+
+---
+
 <div align="center">
   
   ### 📫 Let's Connect!
