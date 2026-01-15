@@ -90,7 +90,7 @@ I focus on **low-level optimization**, **architecture**, and building robust **t
 ### 5. Unreal Engine 5 Real-Time Simulation
 **Stack:** `UE5` `C++` `Blueprints` `Multiplayer`
 
-> **The Challenge: Developing a fully functional 4-player split-screen game.
+> **The Challenge:** Developing a fully functional 4-player split-screen game.
 > * Gameplay Programming: Implemented the complete Game Loop, including character movement and actions, score system and UI binding.
 > * Level Design & Physics: Designed a complete map with integrated collision logic and environmental interactions.
 > * UX/UI: Created **dynamic interfaces** (HUD) and intuitive visual cues to guide players toward objectives.
@@ -108,7 +108,7 @@ I focus on **low-level optimization**, **architecture**, and building robust **t
 ### 6. Co-Loc: Android Flatsharing Platform
 **Stack:** `Kotlin` `Android SDK` `Firebase` `MVVM` `MapLibre`
 
-> **The Challenge: Building a transparent, social-first mobile platform to modernize the roommate hunting process and secure tenant interactions.
+> **The Challenge:** Building a transparent, social-first mobile platform to modernize the roommate hunting process and secure tenant interactions.
 > * Engineered a native Android application using Kotlin and MVVM architecture for clean separation of concerns.
 > * Integrated the full Firebase suite (Auth, Realtime DB, Storage) to enable live chat, user profiles, and dynamic data synchronization.
 > * Implemented interactive mapping features and complex filtering logic for real-time housing discovery.
